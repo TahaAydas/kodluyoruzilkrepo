@@ -10,7 +10,7 @@ Oncellikle projeyi clonelayin.
 git clone https://github.com/TahaAydas/kodluyoruzilkrepo.git
 ```
 
-#Usage
+# Usage
 
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 
@@ -22,10 +22,10 @@ code .
 
 ```
 
-#Contributing
+# Contributing
 
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 
-#License
+# License
 
 [MIT](https://www.mit.edu/)
